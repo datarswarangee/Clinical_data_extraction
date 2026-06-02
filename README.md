@@ -1,13 +1,13 @@
 # Scrape Clinical Data
-## 📜 Disclaimer: 
+## Disclaimer: 
 This project is intended for **educational and research purposes only**.Ensure compliance with the target website’s terms of service before scraping.
 
-## Project Overview: This project is a **multi-level web scraping pipeline** designed to extract clinic data from the archived **MyFootDr – Our Clinics** webpage via the Wayback Machine.
+## Project Overview: 
+This project is a **multi-level web scraping pipeline** designed to extract clinic data from the archived **MyFootDr – Our Clinics** webpage via the Wayback Machine.
 It systematically navigates through:
-* Regions
-* Clinics within regions
-* Individual clinic pages
-and compiles the extracted data into a structured CSV dataset.
+• Regions
+• Clinics within regions
+• Individual clinic pagesand compiles the extracted data into a structured CSV dataset.
 
 ## Key Highlights
 • Automated traversal of hierarchical web pages (Region → Clinic)
