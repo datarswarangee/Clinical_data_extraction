@@ -10,12 +10,12 @@ It systematically navigates through:
 - Individual clinic pagesand compiles the extracted data into a structured CSV dataset.
 
 ## Key Highlights
-• Automated traversal of hierarchical web pages (Region → Clinic)
-• Works on archived snapshots (Wayback Machine compatible)
-• Lightweight and dependency-efficient
-• Clean modular scraping functions
-• CSV-based structured output
-• Easily extendable for deeper data extraction
+- Automated traversal of hierarchical web pages (Region → Clinic)
+- Works on archived snapshots (Wayback Machine compatible)
+- Lightweight and dependency-efficient
+- Clean modular scraping functions
+- CSV-based structured output
+- Easily extendable for deeper data extraction
 
 ## Tech Stack
 - Python 3.x
